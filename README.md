@@ -74,7 +74,7 @@ When your friends want to text your server over the internet, they simply need t
 
 Once their client points to your public IP, they just type:
 ```bash
-tchat -send "Thanks for hosting the chat party!"
+tchat -send "Thanks for hosting the chat party!" -server "YOUR_PUBLIC_IP"
 ```
 
 ---
