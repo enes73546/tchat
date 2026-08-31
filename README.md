@@ -10,7 +10,7 @@ To download and install the project on your machine, follow these steps:
 
 1. Clone the repository using Git:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/enes73546/tchat
    ```
 
 2. Navigate into the project directory:
